@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>hetvi</Text>
+      <Text>hetvi1326367859ogjfhgytrf67u</Text>
       <StatusBar style="auto" />
     </View>
   );
