@@ -1,20 +1,12 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import screens from "./navigation/screeens";
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>hetvi1326367859ogjfhgytrf67u</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+export default screens
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+// });
